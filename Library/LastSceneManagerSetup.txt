@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Resourses to Start 2048 Development/Scenes/MainScene.unity
+  isLoaded: 1
+  isActive: 1
